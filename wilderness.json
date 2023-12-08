@@ -18,8 +18,7 @@
           "layout": 1,
           "buttontext": "<RichColor Color=\"1,0,0,1\">Server Rules</>",
           "title1": "Welcome to The Wilderness!",
-          "text1": "
-These rules are subject to change without public notice.
+          "text1": "These rules are subject to change without public notice.
 Ignorance of the rules is not a valid excuse.
 \n
 Don't be that person, be respectful!
@@ -75,26 +74,11 @@ We are excited to have you join us!!  We want to keep the community friendly, he
       },
       {
         "tab2": {
-          "layout": 2,
-          "buttontext": "2 Box layout",
-          "title1": "Left title",
-          "title2": "Right title",
-          "text1": "This text goes into the left box",
-          "text2": "This text goes into the right box",
-          "imageurl": "https://i.imgur.com/mGt3cAF.png"
         }
       },
       {
         "tab3": {
-          "layout": 3,
-          "buttontext": "3 Box layout",
-          "title1": "Left title",
-          "title2": "Top right title",
-          "title3": "Bottom left title",
-          "text1": "This text goes into the left box",
-          "text2": "This text goes into the top right box",
-          "text3": "This text goes into the bottom right box",
-          "imageurl": "https://i.imgur.com/mGt3cAF.png"
+        
         }
       },
       {
