@@ -65,20 +65,20 @@
     "links": [
       {
         "link1": {
-          "text": "Link to Wiki",
-          "url": "https://github.com/DC-Modding/WBUI2-Wiki/wiki"
+          "text": "Join our Discord",
+          "url": "https://discord.gg/J42JvqB2V9"
         }
       },
       {
         "link2": {
-          "text": "Link to discord",
-          "url": "https://discord.com/invite/K7NyrTV"
+          "text": "",
+          "url": ""
         }
       },
       {
         "link3": {
-          "text": "Link to google",
-          "url": "https://google.com"
+          "text": "",
+          "url": ""
         }
       }
     ]
