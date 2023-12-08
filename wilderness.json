@@ -20,13 +20,11 @@
           "title1": "Welcome to The Wilderness!",
           "text1": "These rules are subject to change without public notice.
 Ignorance of the rules is not a valid excuse.
-\n
 Don't be that person, be respectful!
 Treat others how you want to be treated.
 Intentionally causing harm to the servers (ddos, Crashing, or being toxic) will result in a permanent ban.
 Causing drama in any matter may result in disciplinary action up to and including a ban.
 Dinos left out and not actively in use may be picked up by an admin.
-\n
 Naming
 Names (Characters, Dinos Or Tribe) may not contain any hateful, racially, ethnically, or otherwise offensive words.
 If you own tribes on multiple maps, your tribe names must be the same on all maps.
@@ -74,27 +72,13 @@ We are excited to have you join us!!  We want to keep the community friendly, he
       },
       {
         "tab2": {
-        }
-      },
-      {
-        "tab3": {
-        
-        }
-      },
-      {
-        "tab4": {
-          "layout": 4,
-          "buttontext": "4 Box layout",
-          "title1": "Top left title",
-          "title2": "<TextStyle.Green>Top right title</>",
-          "title3": "<TextStyle.Blue>bottom left title</>",
-          "title4": "<TextStyle.Yellow>bottom right title</>",
-          "text1": "<TextStyle.Orange>This text goes into the top left box</>",
-          "text2": "<TextStyle.Violet>This text goes into the top right box</>",
-          "text3": "<TextStyle.Red>This text goes into the bottom left box</>",
-          "text4": "<TextStyle.White>This text goes into the bottom right box</>",
+          "layout": 3,
+          "buttontext": "Server Rates",
+          "title1": "title",
+          "text1": "This text goes into the box",
           "imageurl": "https://i.imgur.com/mGt3cAF.png"
         }
+      }
       }
     ],
     "links": [
