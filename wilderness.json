@@ -3,7 +3,7 @@
     "settings": {
         "OpenButton": 0,
         "HideIcon": true,
-        "HideIconAfter": 60,
+        "HideIconAfter": 30,
         "IconURL": "https://i.imgur.com/OZ6xOjY.png",
         "DisableIconText": true,
         "IconPosition": 3,
@@ -27,7 +27,7 @@
           "layout": 1,
           "buttontext": "Current Rates",
           "title1": "Server Rates",
-          "text1": "16X Taming\n3X Harvesting (1 x Prime Meats)\n1X  XP\n0.25X Mating Interval\n30X Maturation\n1X Hatching\n14 minute  Cuddle Interval\n5X Imprinting\n1X Hexagon Reward\n3X Loot Drop Quality",
+          "text1": "16X Taming\n3X Harvesting (1 x Prime Meats)\n1X  XP\n0.25X Mating Interval\n30X Maturation\n1X Hatching\n14 minute  Cuddle Interval\n5X Imprinting\n1X Hexagon Reward\n3X Loot Drop Quality\n\nExamples:\nArgentavis: 11m incubation, 1h48m maturity, mating cooldown 4h to 12h, 2 imprints required for 100%\nRex: 18m incubation, 3h5m maturity, mating cooldown 4h to 12h, 3 imprints required for 100% ",
           "imageurl": "https://i.imgur.com/mGt3cAF.png"
         }
       }
