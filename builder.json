@@ -1,0 +1,44 @@
+{
+  "WBUI2": {
+    "settings": {
+        "OpenButton": 0,
+        "HideIcon": true,
+        "HideIconAfter": 30,
+        "IconURL": "https://i.imgur.com/OZ6xOjY.png",
+        "DisableIconText": true,
+        "IconPosition": 3,
+        "IconTextColor": 0,
+        "OpenOnStart": true,
+        "OpenOnStartOnlyNewPlayers": true,
+        "UpdateInterval": 12
+      },
+    "tabs": [
+      {
+        "tab1": {
+          "layout": 1,
+          "buttontext": "<RichColor Color=\"1,0,0,1\">Server Rules</>",
+          "title1": "Welcome to The Wilderness PVE!",
+          "text1": "Rules are posted in Discord and must be followed.\n\nJoining Discord is required (link below).\n\nBasically, treat others and their property as you would like to be treated... \n\n<TextStyle.Green>We are glad you are here!</>",
+          "imageurl": "https://i.imgur.com/mGt3cAF.png"
+        }
+      },
+      {
+        "tab2": {
+          "layout": 1,
+          "buttontext": "Current Rates",
+          "title1": "Server Rates",
+          "text1": "16X Taming\n5X Harvesting (2 x Prime Meat(s))\n1.5X  XP\n0.25X Mating Interval\n30X Maturation\n1X Hatching\n14 minute  Cuddle Interval\n5X Imprinting\n1X Hexagon Reward\n3X Loot Drop Quality\n\nExamples:\nArgentavis: 11m incubation, 1h48m maturity, mating cooldown 4h to 12h, 2 imprints required for 100%\nRex: 18m incubation, 3h5m maturity, mating cooldown 4h to 12h, 3 imprints required for 100% ",
+          "imageurl": "https://i.imgur.com/mGt3cAF.png"
+        }
+      }
+    ],
+    "links": [
+      {
+        "link1": {
+          "text": "Join our Discord",
+          "url": "https://discord.gg/J42JvqB2V9"
+        }
+      }
+    ]
+  }
+}
