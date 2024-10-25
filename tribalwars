@@ -1,0 +1,103 @@
+{
+	"WBUI2":
+	{
+		"settings":
+		{
+			"openbutton": 0,
+			"hideicon": true,
+			"hideiconafter": 90,
+			"iconurl": "https://i.imgur.com/06qJDFe.png",
+			"disableicontext": true,
+			"iconposition": 3,
+			"icontextcolor": 0,
+			"openonstart": true,
+			"openonstartonlynewplayers": true,
+			"updateinterval": 12
+		},
+		"tabs": [
+			{
+				"layout": 1,
+				"buttontext": "Welcome",
+				"imageurl": "https://i.imgur.com/QPi2xLh.png",
+				"content": [
+					{
+						"title": "Welcome to Kingdoms Tribal Wars!",
+						"text": "Are you looking for a more interactive way to play the game?  Try roleplay!  You do not need to be a dnd style RP player to enjoy.  Come play and enjoy the community.  Or get more involved and build themed builds and interact with the in game economy.  Play the game in more of a PVE style or conquer the map for yourself with a more PvP approach. The choice is yours!  Complete with merchants, kingdoms, in game currency and an on demand store as well as admin shop. The choice is yours!\r\n\r\nCome and build/Join a great community!"
+					}
+				]
+			},
+			{
+				"layout": 4,
+				"buttontext": "Rules",
+				"imageurl": "",
+				"content": [
+					{
+						"title": "General Rules",
+						"text": "- No racism, politics, or griefing of any kind.\r\n\r\n- No advertising other servers.\r\n\r\n- No posting other people’s personal information.\r\n\r\n- Be respectful to Admins and Staff.\r\n\r\n- Accusations against our team will not be tolerated.\r\n\r\n- Do not impersonate staff members.\r\n\r\n- No dragging players in an attempt to get them killed so you can loot them, this will be logged and can lead to an instant ban without notice.\r\n\r\n- All rules will be decided by the staff and the staff alone, please do not interject yourself into any situations that pertain to rules and the way the community is ran, simply point them in the direction to open a ticket or let the staff deal with it."
+					},
+					{
+						"title": "Tribe Rules",
+						"text": "- If players of tribes cannot get along or decide to split up, it is at the tribes discretion to decide what belongs to who. Everything must be agreed upon and done in a manner that does not disrupt other players.  \r\n\r\n- Tribes will be permitted to share their tames with each other and NO ONE ELSE.\r\n\r\n- It is important to know who you are tribing up with before doing so!\r\n\r\n- Tribes that are working together to form a shop must be in the same tribe on all maps. Every tribe member will take responsibility for pricing and maintaining the shop.  All members will also share responsibility in making sure all tames are spayed/neutered prior to sell if they are mutated, have high stats, or end of game tames. If any player breaks or violates a rule, all members of that tribe will be punished accordingly.\r\n\r\nAny tribe/groups that do decided to split or remove members must decide what tames belong to which members, if the player(s) leaving take the tame lines all others left must be spayed or neutered. Additionally if the tame lines say in the tribe/group any players leaving must then spay or neuter all tames, there is no more players taking tame lines with them!\r\n\r\nKNOW WHO YOU INVITE TO YOUR TRIBE/GROUP BEFORE YOU DECIDE TO TRIBE/GROUP UP! "
+					},
+					{
+						"title": "In-Game Rules",
+						"text": "- No hacking/abusing any game bugs and exploits or plugin/mod bugs and exploits.\r\n\r\n- Tribes intentionally causing server performance issues (lag, crashes, etc.) will be banned without warning.\r\n\r\n- When egg hunting, do not drop low level eggs that you do not want. You should eat them instead. Dropping the eggs prevents new ones from spawning.\r\n\r\n- If players would like to have a “Free” box for other players. They must also include a sign beside the box saying “Free” and can only have the following items within the box:\r\n\r\n Blueprints that are of Apprentice or lower quality, stone or low level tools of any tier, structures that are stone tier or lower, tames that are both low leveled and spayed, \r\nbasic Saddles, basic food/berries, arrows, cloth armor of any tier.\r\n\r\n- There is a limit of 1 teleporter per tribe.  This teleporter must be properly named, unlocked, and made public if it isn't inside of your base.\r\n\r\n- Do not leave tames on wander or mating while you are offline. Tames found breaking this rule will be destroyed without notice."
+					},
+					{
+						"title": "Building Rules",
+						"text": "- Tribes/players may have 1 Main Base and 2 Outposts per map, no excessive building, we have to share these maps with everyone.\r\n\r\n- Do not build within render distance of another person’s base unless that person has given their approval.\r\n\r\n- Do not build in render range of ANY dinos that have nests or lay eggs that need to be collected, if the dino/wyvers spawns can be seen from your base/outpost, you are too close and need to move.\r\n\r\n- Land claiming using pillars or foundations or any other method is not allowed.\r\n\r\n- Do not build near or on rich resource spawns, this prevents them from spawning, anything blocking rich resource spawns will be destroyed with no warning.\r\n\r\n- Do not leave traps on the map unless they are directly beside your base. Any traps violating this rule will be deleted on site.\r\n\r\n- Do not build in caves that have loot drops or artifacts, you cannot by any means block anything that other players need to access that will effect their gameplay. \r\n\r\n- Do not spam excessive decoration items when building; they can cause massive amounts of lag. Please try and limit them to the decoration of small gardens or just around your base.\r\n\r\n- Teleporter(s) must be properly named, unlocked, and made public if it isn't inside of your base."
+					}
+				]
+			},
+			{
+				"layout": 3,
+				"buttontext": "Shop Rules",
+				"imageurl": "",
+				"content": [
+					{
+						"title": "Trading/Selling Rules",
+						"text": "- If selling/trading a mutated tame with 60 mutations or greater in any one stat or higher than level 300, it must be spayed/neutered (This allows people to sell breedable color mutation tames.). This is only intended for selling tames that are colored, not to sell tames that have stat mutations! Additionally all gachas must be spayed/neutered prior to sale.\r\n\r\n- You CANNOT trade or breed stats with other players/tribes/groups, all tames MUST be spayed or Neutered before you share them with others.\r\n\r\n- Do not give away mutated tames for free (This hurts the economy. Sell or trade them instead). Any players caught giving away high level mutated tames for free to extremely low cost will be subject to player and progress wipe immediately.\r\n\r\n- Any players trying to make private trade arrangements that violate the rules in any way are subject to player and progress wipe immediately.\r\n\r\n- No selling or trading items that will brake another players progression, helping them is one thing, but doing everything for them is prohibited."
+					},
+					{
+						"title": "Shop Locations",
+						"text": "- Tribe Owned Shops are allowed at Town Tier and above at the community center.  \r\n\r\n- Once a tribe has reached stage City, we can advertise your shop location, simply open a ticket to let us know.\r\n\r\n- Kingdoms Community Area is located at South Zone 1 98.8 x 63.8"
+					},
+					{
+						"title": "Points or Coins?",
+						"text": "We have both points (rewarded for time played and killing other players 10% of their current point balance) and a Coin system (Simple Gold Coins).  Coins may be purchased with your points and used in public trade tables as our world currency.  Points may be used in the admin shop (hold x or square for console, F2 on PC)"
+					}
+				]
+			},
+			{
+				"layout": 3,
+				"buttontext": "Server Info",
+				"imageurl": "",
+				"content": [
+					{
+						"title": "Rates",
+						"text": "XP: 2x\r\nHarvest: 3x\r\nTaming: 15x\r\nMaturation: 30x\r\nIncubation: 30x\r\nBreeding Cool down: 34-86 minutes"
+					},
+					{
+						"title": "Stats",
+						"text": "Level 150 Wilds\r\nMax Wyvern: 190\r\n(Following are for future maps)\r\nMax Tek: 180\r\nMax Crystal Wyvern: 225"
+					},
+					{
+						"title": "Limits",
+						"text": "Teleporters: 1 Per Tribe\r\nTribe Members: 20\r\nTribe Tames: 250\r\nStructures: 10,500"
+					},
+					{
+						"title": "",
+						"text": ""
+					}
+				]
+			}
+		],
+		"links": [
+			{
+				"text": "Discord",
+				"url": "https://discord.com/invite/bTmnbcY7dV "
+			}
+		],
+		"version": 2
+	}
+}
