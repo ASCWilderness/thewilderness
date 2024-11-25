@@ -5,7 +5,7 @@
 		{
 			"openbutton": 1,
 			"hideicon": true,
-			"hideiconafter": 90,
+			"hideiconafter": 180,
 			"iconurl": "https://i.imgur.com/06qJDFe.png",
 			"disableicontext": true,
 			"iconposition": 3,
