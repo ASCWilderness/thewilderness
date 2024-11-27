@@ -11,7 +11,7 @@
 			"iconposition": 3,
 			"icontextcolor": 0,
 			"openonstart": true,
-			"openonstartonlynewplayers": true,
+			"openonstartonlynewplayers": false,
 			"updateinterval": 12
 		},
 		"tabs": [
@@ -21,8 +21,8 @@
 				"imageurl": "https://i.imgur.com/7ekV4zh.png",
 				"content": [
 					{
-						"title": "Welcome to Kingdoms Tribal Wars!",
-						"text": "Are you looking for a more interactive way to play the game?  Try roleplay!  You do not need to be a dnd style RP player to enjoy.  Come play and enjoy the community.  Or get more involved and build themed builds and interact with the in game economy.  Play the game in more of a PVE style or conquer the map for yourself with a more PvP approach. The choice is yours!  Complete with merchants, kingdoms, in game currency and an on demand store as well as admin shop. The choice is yours!\r\n\r\nCome and build/Join a great community!"
+						"title": "Welcome to Kingdoms RP [Medieval: Guilds and Goblins]!",
+						"text": "Forget everything you know about Ark with this Medieval OVERHAUL, almost everything has changed to exist in a primitive era.\r\n\r\nStep into an age where medieval life meets prehistoric wonder! \"Ark Medieval: Guilds & Goblins\" reimagines Ark Survival Ascended, plunging you into a world brimming with dinosaurs, ancient technology, and magical creatures.\r\n\r\nThis is a Role Playing PVP/PVE style server (You choose how you wish to play).  *See the Rules section for information on PVP engagement.\r\n\r\nThere is an in-game currency/trading system, including admin and player shops.  You receive 13 gold coins (goblin gold) per 45 mintues of game play and can also earn more by raiding goblin camps, selling merchandise at a goblin trade center, and killing alphas."
 					}
 				]
 			},
@@ -41,11 +41,11 @@
 					},
 					{
 						"title": "In-Game Rules",
-						"text": "- No hacking/abusing any game bugs and exploits or plugin/mod bugs and exploits.\r\n\r\n- Tribes intentionally causing server performance issues (lag, crashes, etc.) will be banned without warning.\r\n\r\n- When egg hunting, do not drop low level eggs that you do not want. You should eat them instead. Dropping the eggs prevents new ones from spawning.\r\n\r\n- If players would like to have a “Free” box for other players. They must also include a sign beside the box saying “Free” and can only have the following items within the box:\r\n\r\n Blueprints that are of Apprentice or lower quality, stone or low level tools of any tier, structures that are stone tier or lower, tames that are both low leveled and spayed, \r\nbasic Saddles, basic food/berries, arrows, cloth armor of any tier.\r\n\r\n- There is a limit of 1 teleporter per tribe.  This teleporter must be properly named, unlocked, and made public if it isn't inside of your base.\r\n\r\n- Do not leave tames on wander or mating while you are offline. Tames found breaking this rule will be destroyed without notice."
+						"text": "- No hacking/abusing any game bugs and exploits or plugin/mod bugs and exploits.\r\n\r\n- Tribes intentionally causing server performance issues (lag, crashes, etc.) will be banned without warning.\r\n\r\n- When egg hunting, do not drop low level eggs that you do not want. You should eat them instead. Dropping the eggs prevents new ones from spawning.\r\n\r\n- Do not leave tames on wander or mating while you are offline. Tames found breaking this rule will be destroyed without notice."
 					},
 					{
 						"title": "Building Rules",
-						"text": "- Tribes/players may have 1 Main Base and 2 Outposts per map, no excessive building, we have to share these maps with everyone.\r\n\r\n- Do not build within render distance of another person’s base unless that person has given their approval.\r\n\r\n- Do not build in render range of ANY dinos that have nests or lay eggs that need to be collected, if the dino/wyvers spawns can be seen from your base/outpost, you are too close and need to move.\r\n\r\n- Land claiming using pillars or foundations or any other method is not allowed.\r\n\r\n- Do not build near or on rich resource spawns, this prevents them from spawning, anything blocking rich resource spawns will be destroyed with no warning.\r\n\r\n- Do not leave traps on the map unless they are directly beside your base. Any traps violating this rule will be deleted on site.\r\n\r\n- Do not build in caves that have loot drops or artifacts, you cannot by any means block anything that other players need to access that will effect their gameplay. \r\n\r\n- Do not spam excessive decoration items when building; they can cause massive amounts of lag. Please try and limit them to the decoration of small gardens or just around your base.\r\n\r\n- Teleporter(s) must be properly named, unlocked, and made public if it isn't inside of your base."
+						"text": "- Tribes/players may have 1 Main Base and 2 Outposts per map, no excessive building, we have to share these maps with everyone.\r\n\r\n- Do not build within render distance of another person’s base unless that person has given their approval.\r\n\r\n- Do not build in render range of ANY dinos that have nests or lay eggs that need to be collected, if the dino/wyvers spawns can be seen from your base/outpost, you are too close and need to move.\r\n\r\n- Land claiming using pillars or foundations or any other method is not allowed.\r\n\r\n- Do not build near or on rich resource spawns, this prevents them from spawning, anything blocking rich resource spawns will be destroyed with no warning.\r\n\r\n- Do not leave traps on the map unless they are directly beside your base. Any traps violating this rule will be deleted on site.\r\n\r\n- Do not build in caves that have loot drops or artifacts, you cannot by any means block anything that other players need to access that will effect their gameplay. \r\n\r\n- Do not spam excessive decoration items when building; they can cause massive amounts of lag. Please try and limit them to the decoration of small gardens or just around your base."
 					}
 				]
 			},
@@ -60,7 +60,7 @@
 					},
 					{
 						"title": "Shop Locations",
-						"text": "- Tribe Owned Shops are allowed at Town Tier and above at the community center.  \r\n\r\n- Once a tribe has reached stage City, we can advertise your shop location, simply open a ticket to let us know.\r\n\r\n- Kingdoms Community Area is located at South Zone 1 98.8 x 63.8"
+						"text": "- Tribe Owned Shops are allowed at Settlement Tier and above at the community center.  \r\n\r\n- Once a tribe has reached the Settlement stage, you will be granted access to the shop channel to advertise your shop.\r\n\r\n- Kingdoms Community Area is located at"
 					},
 					{
 						"title": "Points or Coins?",
@@ -83,11 +83,26 @@
 					},
 					{
 						"title": "Limits",
-						"text": "Teleporters: 1 Per Tribe\r\nTribe Members: 20\r\nTribe Tames: 250\r\nStructures: 10,500"
+						"text": "Tribe Members: 20\r\nTribe Tames: 250\r\nStructures: 10,500"
 					},
 					{
 						"title": "",
 						"text": ""
+					}
+				]
+			},
+			{
+				"layout": 2,
+				"buttontext": "PVP Rules",
+				"imageurl": "",
+				"content": [
+					{
+						"title": "PVP/PVE Info",
+						"text": "This server is equiped with Lethal Raid Protection.  Use the chat command /setorp to activate structure protection for all of your structures map wide.  "
+					},
+					{
+						"title": "PVP Engagement Rules",
+						"text": "Open world PVP is possible after you have declared war on a tribe and given 24 hours notice.  The opposing tribe has the option to barter with you in an effort to thwart your attack or to accept.\r\n\r\nBase raiding damage is to be kept to a minimum.   Example: take out one door and destroy containers.  You may destroy a wall if you feel it is hiding something.  The idea is not to completely wipe out a tribe so that they may rebuild with minimal effort.\r\n\r\nPassive dinos should be left alone."
 					}
 				]
 			}
