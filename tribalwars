@@ -22,7 +22,7 @@
 				"content": [
 					{
 						"title": "Welcome to Kingdoms RP [Medieval: Guilds and Goblins]!",
-						"text": "Forget everything you know about Ark with this Medieval OVERHAUL, almost everything has changed to exist in a primitive era.\r\n\r\nStep into an age where medieval life meets prehistoric wonder! \"Ark Medieval: Guilds & Goblins\" reimagines Ark Survival Ascended, plunging you into a world brimming with dinosaurs, ancient technology, and magical creatures.\r\n\r\nThis is a Role Playing PVP/PVE style server (You choose how you wish to play).  *See the Rules section for information on PVP engagement.\r\n\r\nThere is an in-game currency/trading system, including admin and player shops.  You receive 13 gold coins (goblin gold) per 45 mintues of game play and can also earn more by raiding goblin camps, selling merchandise at a goblin trade center, and killing alphas."
+						"text": "Forget everything you know about Ark with this Medieval OVERHAUL, almost everything has changed to exist in a primitive era.\r\n\r\nStep into an age where medieval life meets prehistoric wonder! \"Ark Medieval: Guilds & Goblins\" reimagines Ark Survival Ascended, plunging you into a world brimming with dinosaurs, ancient technology, and magical creatures.\r\n\r\nThis is a Role Playing PVP/PVE style server (You choose how you wish to play).  *See the Rules section for information on PVP engagement.\r\n\r\nThere is an in-game currency/trading system, including admin and player shops.  You receive 13 gold coins (goblin gold) per 45 mintues of game play and can also earn more by raiding goblin camps, selling merchandise at a goblin trade center, and killing alphas.\r\n\r\n*Rules, Info, Etc is currently under development."
 					}
 				]
 			},
@@ -60,11 +60,11 @@
 					},
 					{
 						"title": "Shop Locations",
-						"text": "- Tribe Owned Shops are allowed at Settlement Tier and above at the community center.  \r\n\r\n- Once a tribe has reached the Settlement stage, you will be granted access to the shop channel to advertise your shop.\r\n\r\n- Kingdoms Community Area is located at"
+						"text": "- Tribe Owned Shops are allowed at Settlement Tier and above at the community center.  \r\n\r\n- Once a tribe has reached the Settlement stage, you will be granted access to the shop channel to advertise your shop.\r\n\r\n- Kingdoms Community Area is located at -tba"
 					},
 					{
-						"title": "Points or Coins?",
-						"text": "We have both points (rewarded for time played and killing other players 10% of their current point balance) and a Coin system (Simple Gold Coins).  Coins may be purchased with your points and used in public trade tables as our world currency.  Points may be used in the admin shop (hold x or square for console, F2 on PC)"
+						"title": "Goblin Gold",
+						"text": ""
 					}
 				]
 			},
@@ -98,7 +98,7 @@
 				"content": [
 					{
 						"title": "PVP/PVE Info",
-						"text": "This server is equiped with Lethal Raid Protection.  Use the chat command /setorp to activate structure protection for all of your structures map wide.  "
+						"text": "This server is equiped with Lethal Raid Protection.  Set a Lethal Protection Shrine down (limit 1 per tribe per map) at your main settlement for Protection.  ---more to come on this"
 					},
 					{
 						"title": "PVP Engagement Rules",
