@@ -22,7 +22,7 @@
 				"content": [
 					{
 						"title": "Welcome to Age of Dynasties RP Classic",
-						"text": "We at Age of Dynasties RP are a community driven group that strive to make a balanced and enjoyable gaming experience for our players. \r\n\r\nWe are a crossplay server offering a medieval fantasy atmosphere where the lore is driven by the events taking place within the server. \r\n\r\nWe currently have two separate branches in operation; one centralized on the Medieval Guilds and Goblins mod and another with a more Classic Primitive ASA Roleplaying tone without premium mods. \r\n\r\nBoth servers operate similarly as far as rules and gameplay, with class systems in place for individuals and tiers in place for tribes. \r\n\r\nWe have capped the loot at a relatively low quality to try to encourage more communication and dependence on your fellow survivors. We intend to use various formats focused on roleplaying to inject the higher echelon items into play. Whether it be through guild quests, tier rewards or regularly scheduled events.\r\n\r\nWe are a little less boosted than regular roleplaying servers in hopes that we can recapture some nostalgia of the grind and fear we know this game can provide.\r\n\r\nWe plan to eventually expand to two maps on each cluster. \r\n\r\nThe Realm and the Underdark (Abberation) with the potential for further expansion down the line. "
+						"text": "We at Age of Dynasties RP are a community driven group that strive to make a balanced and enjoyable gaming experience got our players. \r\n\r\n   Age of Dynasties RP is crossplay server offering a medieval fantasy atmosphere where the lore is driven by the events taking place within the server. Featuring custom races, classes, guilds and a settlement tier system. \r\n\r\n   We have capped the loot you can find in the wild at a relatively low quality to try to encourage more communication and dependence on your fellow survivors. \r\n\r\n   Age of Dynasties uses various formats focused on roleplaying to inject the higher echelon items into play. Whether it be through guild quests, tier rewards or regularly scheduled events.\r\n\r\nAge of Dynasties is a little less boosted than regular roleplaying servers in hopes that we can recapture some nostalgia of the grind and fear we know this game can provide.\r\n\r\nWe currently have two clusters under our banne. Classic and Medieval Guilds and Goblins. You are currently on Classic"
 					}
 				]
 			},
@@ -50,44 +50,44 @@
 				]
 			},
 			{
-				"layout": 3,
+				"layout": 2,
 				"buttontext": "Shop Rules",
 				"imageurl": "",
 				"content": [
 					{
 						"title": "Trading/Selling Rules",
-						"text": "- If selling/trading a mutated tame with 60 mutations or greater in any one stat or higher than level 300, it must be spayed/neutered (This allows people to sell breedable color mutation tames.). This is only intended for selling tames that are colored, not to sell tames that have stat mutations! Additionally all gachas must be spayed/neutered prior to sale.\r\n\r\n- You CANNOT trade or breed stats with other players/tribes/groups, all tames MUST be spayed or Neutered before you share them with others.\r\n\r\n- Do not give away mutated tames for free (This hurts the economy. Sell or trade them instead). Any players caught giving away high level mutated tames for free to extremely low cost will be subject to player and progress wipe immediately.\r\n\r\n- Any players trying to make private trade arrangements that violate the rules in any way are subject to player and progress wipe immediately.\r\n\r\n- No selling or trading items that will brake another players progression, helping them is one thing, but doing everything for them is prohibited."
+						"text": "- If selling/trading a mutated tame with 60 mutations or greater in any one stat or higher than level 300, it must be spayed/neutered (This allows people to sell breedable color mutation tames.). This is only intended for selling tames that are colored, not to sell tames that have stat mutations! Additionally all gachas must be spayed/neutered prior to sale.\r\n\r\n- You CANNOT trade or breed stats with other players/tribes/groups, all tames MUST be spayed or Neutered before you share them with others.\r\n\r\n- Do not give away mutated tames for free (This hurts the economy. Sell or trade them instead). Any players caught giving away high level mutated tames for free to extremely low cost will be subject to player and progress wipe immediately.\r\n\r\n- Any players trying to make private trade arrangements that violate the rules in any way are subject to player and progress wipe immediately.\r\n\r\n- No selling or trading items that will break another players progression, helping them is one thing, but doing everything for them is prohibited."
 					},
 					{
 						"title": "Shop Locations",
-						"text": "- Tribe Owned Shops are allowed at Settlement Tier and above at the community center.  \r\n\r\n- Once a tribe has reached the Settlement stage, you will be granted access to the shop channel to advertise your shop.\r\n\r\n- Kingdoms Community Area is located at -tba"
+						"text": "- Tribe Owned Shops are allowed at Kingdom Tier and above at the market.  \r\n\r\n- Age of Dynasties Market is located at -tba"
 					},
 					{
-						"title": "Goblin Gold",
+						"title": "",
 						"text": ""
 					}
 				]
 			},
 			{
-				"layout": 3,
+				"layout": 4,
 				"buttontext": "Server Info",
 				"imageurl": "",
 				"content": [
 					{
-						"title": "Rates",
-						"text": "XP: 2x\r\nHarvest: 2x\r\nTaming: 15x\r\nMaturation: 30x\r\nIncubation: 30x\r\nBreeding Cool down: 34-86 minutes"
+						"title": "Rates & Limits",
+						"text": "RATES:\r\nXP: 2x\r\nHarvest: 2x\r\nTaming: 15x\r\nMaturation: 30x\r\nIncubation: 30x\r\nBreeding Cool down: 34-86 minutes\r\n\r\nLIMITS:\r\nTribe Members: 10\r\nTribe Tames: 250\r\nStructures: 10,500"
 					},
 					{
 						"title": "Stats",
-						"text": "Level 150 Wilds\r\nMax Wyvern: 190\r\n(Following are for future maps)\r\nMax Tek: 180\r\nMax Crystal Wyvern: 225"
+						"text": "Level 150 Wilds\r\nMax Wyvern: 190 (225 on Wastelands)\r\n(Following are for future maps)\r\nMax Tek: 180\r\nMax Crystal Wyvern: 225"
 					},
 					{
-						"title": "Limits",
-						"text": "Tribe Members: 20\r\nTribe Tames: 250\r\nStructures: 10,500"
-					},
-					{
-						"title": "",
+						"title": "Race & Class",
 						"text": ""
+					},
+					{
+						"title": "Spawn Alterations",
+						"text": "-Gigas and Carchas been taken up residence in the redwoods and have thrived\r\n- Rhynios have increased their numbers in the samp\r\n- All Wasteland Wyverns have increased their numbers as well as their levels."
 					}
 				]
 			},
@@ -98,7 +98,7 @@
 				"content": [
 					{
 						"title": "PVP/PVE Info",
-						"text": "This server is equiped with Lethal Raid Protection.  Set a Lethal Protection Shrine down (limit 1 per tribe per map) at your main settlement for Protection.  ---more to come on this"
+						"text": "This server is equiped with Lethal Raid Protection.  Apply in discord (link below) for raid protection."
 					},
 					{
 						"title": "PVP Engagement Rules",
